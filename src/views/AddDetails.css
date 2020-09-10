@@ -1,0 +1,6 @@
+.full-form {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+    margin-top: 10px;
+}
